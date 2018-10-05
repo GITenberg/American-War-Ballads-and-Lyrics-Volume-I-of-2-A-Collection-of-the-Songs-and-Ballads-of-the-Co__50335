@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'American War Ballads and Lyrics, Volume I (of 2)
 
   A Collection of the Songs and Ballads of the Colonial wars,
